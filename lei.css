@@ -1,0 +1,45 @@
+
+h1{
+    color: black;
+}
+body{
+
+ }
+    
+
+
+form{
+    color: black;
+    background-color:rgb(228, 236, 244);
+}
+input{
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  max-width: 250px;
+  padding: 15px 15px;
+  border-radius: 10px;
+  box-shadow: -2px -2px 8px rgba(93, 88, 88, 0.45),
+  -2px -2px 12px rgba(220, 207, 207, 0.5),
+  inset 2px 2px 4px rgba(210, 207, 207, 0.1),
+  2px 2px 8px rgba(0, 0, 0, .3);
+background-color: #d9e1ea
+}
+.check{
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+    width: 80%;
+  max-width: 250px;
+  padding: 15px 15px;
+  border-radius: 10px;
+  box-shadow: -2px -2px 8px rgba(247, 229, 229, 0.45),
+  -2px -2px 12px rgba(255, 255, 255, 0.5),
+  inset 2px 2px 4px rgba(255, 255, 255, 0.1),
+  2px 2px 8px rgba(0, 0, 0, .3);
+background-color
+}
+

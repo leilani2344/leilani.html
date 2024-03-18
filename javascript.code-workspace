@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../javascript"
+		},
+		{
+			"path": "../lesson 1"
+		},
+		{
+			"path": "../trials"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/Dicee+Challenge+-+Starting+Files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lesson 1"
+	}
+}
